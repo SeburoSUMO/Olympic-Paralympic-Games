@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Olympic & Paralympic Games",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(223, 0, 148)",
+      "toolbar_text": "rgb(250, 250, 250)",
+      "frame": "rgb(131, 0, 81)",
+      "tab_background_text": "rgb(250, 250, 250)",
+      "toolbar_field": "rgb(1, 4, 9)",
+      "toolbar_field_text": "rgb(250, 250, 250)",
+      "tab_line": "rgb(223, 0, 148)",
+      "popup": "rgb(13, 17, 23)",
+      "popup_text": "rgb(250, 250, 250)",
+      "toolbar_field_border_focus": "rgb(223, 0, 148)",
+      "toolbar_field_border": "rgb(223, 0, 148)",
+      "toolbar_field_focus": "rgb(0, 0, 0)",
+      "toolbar_field_highlight_text": "rgb(250, 250, 250)",
+      "toolbar_field_highlight": "rgb(223, 0, 148)",
+      "toolbar_field_text_focus": "rgb(250, 250, 250)",
+      "tab_loading": "rgb(223, 0, 148)"
+    }
+  }
+}
